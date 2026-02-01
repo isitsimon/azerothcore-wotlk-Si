@@ -120,10 +120,10 @@ enum class DisplayRace : uint8
     Tauren            = 6,
     Gnome             = 7,
     Troll             = 8,
-    Goblin            = 9,
+    Goblinold            = 23,
     BloodElf          = 10,
     Draenei           = 11,
-    FelOrc            = 12,
+    FelOrc            = 24,
     Naga              = 13,
     Broken            = 14,
     Skeleton          = 15,
@@ -132,7 +132,9 @@ enum class DisplayRace : uint8
     ForestTroll       = 18,
     Taunka            = 19,
     NorthrendSkeleton = 20,
-    IceTroll          = 21
+    IceTroll          = 21,
+    Goblin            = 9,
+    HighElf           = 12
 };
 
 // Class value is index in ChrClasses.dbc
