@@ -119,7 +119,7 @@ enum class DisplayRace : uint8
     NorthrendSkeleton = 20,
     IceTroll          = 21,
     Goblinold         = 23,
-    Felord            = 24
+    Felorc            = 24
 };
 
 // Class value is index in ChrClasses.dbc
