@@ -2027,7 +2027,7 @@ CharacterCreating.Disabled.ClassMask = 0
 #        Important:   Number must be >= CharactersPerRealm
 #        Default:     50
 
-CharactersPerAccount = 255
+CharactersPerAccount = 100
 
 #
 #    CharactersPerRealm
@@ -2035,7 +2035,7 @@ CharactersPerAccount = 255
 #        Range:       1-10
 #        Default:     10 - (Client limitation)
 
-CharactersPerRealm = 255
+CharactersPerRealm = 50
 
 #
 #    HeroicCharactersPerRealm
@@ -2043,7 +2043,7 @@ CharactersPerRealm = 255
 #        Range:       1-10
 #        Default:     1
 
-HeroicCharactersPerRealm = 255
+HeroicCharactersPerRealm = 10
 
 #
 #    CharacterCreating.MinLevelForHeroicCharacter
